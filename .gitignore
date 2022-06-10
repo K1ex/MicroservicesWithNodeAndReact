@@ -1,0 +1,7 @@
+# Project exclude paths
+/comments/node_modules/
+/event-bus/node_modules/
+/moderation/node_modules/
+/node_modules/
+/posts/node_modules/
+/query/node_modules/
